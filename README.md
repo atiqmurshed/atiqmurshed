@@ -1,10 +1,10 @@
-## Hi there 👋
+
 <h1 align="center">Hi I'm Nayan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **react, mongodb, express, node.js, next.js, typescript**
+I’m currently learning **react, mongodb, express, node.js, next.js, typescript**
 
-- 📫 How to reach me **atiqmursherd631@gmail.com**
+How to reach me **atiqmursherd631@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
